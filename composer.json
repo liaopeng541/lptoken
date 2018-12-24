@@ -1,0 +1,21 @@
+{
+    "name": "lpsoft/lptoken",
+    "description": "token for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "liaopeng541",
+            "email": "36416976@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lpsoft\\lptoken\\": ""
+        }
+    }
+}
